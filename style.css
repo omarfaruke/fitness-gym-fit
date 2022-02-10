@@ -1,0 +1,222 @@
+body{
+    background-image: url("gym-pic/back.jpg");
+}
+
+.first-div{
+    padding-bottom: 80px;
+}
+.container1st{
+    height: 600px;
+    width: 100%;
+    background-image: url("gym-pic/pic3.jpg");
+    border-radius: 25px;
+    box-shadow: 15px 10px 5px black;
+    border: 2px solid gray;
+}
+#text-center{
+    padding: 100px 50px  ;
+
+}
+#buddy{
+    color: gray;
+}
+#buddy2{
+    color: black;
+}
+.button {
+   border-radius: 10px;
+   background-color: gray;
+   box-shadow: 10px 15px 10px black;
+   height:55px;
+   width: 200px;
+   /* border: 2px solid white; */
+
+ 
+}
+.mota{
+    color: grey;
+}
+.features{
+    padding-top: 50px;
+    text-align: center;
+}
+.features2{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color:black;
+    width: 400px;
+    margin-left: 35%;
+    border-radius:  20px;
+   
+   
+}
+.three-features{
+    padding-bottom: 50px;
+}
+.cat1, .cat2, .cat3{
+    padding: 5px 20px 20px 5px;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+    box-shadow: 15px 25px 10px black ;
+    color: gray;
+    border: 2px solid gray;
+}
+.cat1{
+    background-color: black;
+}
+.cat2{
+    background-color: black;
+}
+.cat3{
+    background-color: black;
+}
+#size{
+    height: 180px;
+    width: 100%;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+.features-btn{
+    border-radius: 10px;
+    background-color: gray;
+    box-shadow: 3px 4px 10px gray ;
+    height:55px;
+    width: 200px;
+    /* border: 2px solid white; */
+    
+ 
+}
+
+.div3{
+    padding-top: 50px;
+}
+.img1{
+    height: 600pxx;
+    width: 400px;
+    border-radius: 12px;
+}
+.Equipment{
+    background-color: black;
+    border-radius: 10px; 
+     box-shadow: 10px 12px 10px black;
+    border: 1px solid;
+}
+/* .row1{
+    background-color: black;
+    border-radius: 10px; 
+     box-shadow: 10px 12px 10px black;
+    border: 1px solid;
+} */
+.Treadmills{
+    justify-items: center;
+    padding-top: 60px;
+    color: gray;
+  
+}
+.img2{
+    height: 600px;
+    width: 300px;
+}
+.workout-btn{
+    border-radius: 10px;
+    background-color: gray;
+    box-shadow: 3px 4px 10px gray ;
+    height:55px;
+    width: 280px;
+}
+.fees{
+    text-align: center;
+    padding-top: 30px;
+    color: slategrey;
+}
+.time{
+    text-align: center;
+    padding-top: 30px;
+    color: gray;
+}
+.container3{
+    padding-top: 50px;
+}
+.slide-c{
+    background-color: black;
+    height: 500px;
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 10px 12px 10px black;
+    border: 1px solid gray;
+}
+.coloum1st{
+    text-align: center;
+    padding-top: 155px;
+    color: gray;
+}
+#clock2{
+    padding-top: 30px;
+   
+}
+.c-img{
+    padding-top: 50px;
+}
+#doller{
+
+    height: 375px;
+    width: 410px;
+    border-radius: 300px;
+}
+.container4{
+    height: 450px;
+    width: 100%;
+    background-color: black;
+    padding-top: 30px;
+    border: 1px solid gray;
+    border-radius: 35px;
+    box-shadow: 20px 18px 15px black;
+    
+}
+.taka{
+    padding-top:px;
+}
+.list-item{
+    padding-top: 80px;
+    color: beige;
+}
+#details-btn{
+    height: 55px;
+    width: 190px;
+    background-color: gray;
+    border-radius: 10px ;
+    box-shadow: 5px 8px 10px  gray;
+}
+.contact-div{
+    padding-top: 40px;
+    background-color: black;
+    margin-top: 45px;
+    height: 380px;
+    width: 100%;
+}
+
+.container5{
+    text-align: center;
+}
+#submit-btn{
+    height: 50px;
+    width: 250px;
+    padding-top: 10px;
+    background-image: linear-gradient(to bottom, gray 100%, black 0% );
+    border-radius: 15px;
+    box-shadow: 10px 5px 8px grey;
+} 
+.from-control{
+    height:50px;
+    width: 300px;
+    border-radius: 20px;
+    border: none;
+    background-color:burlywood;
+}
+.jogajog{
+    color: brown;
+}
+
+
